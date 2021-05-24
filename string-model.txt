@@ -1,0 +1,4 @@
+"Text"
+"Text with \" quotes\""
+"Text with \\ backslashes \\"
+"Text \nwith \nnewlines"

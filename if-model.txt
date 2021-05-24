@@ -1,0 +1,8 @@
+IF <condition> THEN <expression>
+IF <condition> THEN <expression> ELIF <condition> THEN <expression>
+IF <condition> THEN <expression> ELIF <condition> THEN <expression> ELSE <expression>
+
+VAR age = 27
+VAR price = IF age >= 18 THEN 40 ELSE 20
+
+IF 5 == 5 THEN "Of Course!" ELSE "Maths is broken!"
