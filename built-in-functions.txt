@@ -12,3 +12,4 @@ v1:
     APPEND
     POP
     EXTEND
+    EXIT : Only for shell
