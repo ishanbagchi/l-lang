@@ -2,6 +2,8 @@ import basic
 
 while True:
     text = input('>>> ')
+    if text == 'EXIT()':
+        break
     result, error = basic.run('<stdin>', text)
 
     if error:
