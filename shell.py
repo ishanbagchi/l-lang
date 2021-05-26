@@ -1,7 +1,7 @@
 import basic
 
 while True:
-    text = input('> ')
+    text = input('>>> ')
     result, error = basic.run('<stdin>', text)
 
     if error:
