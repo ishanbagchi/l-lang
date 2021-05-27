@@ -1,0 +1,5 @@
+PRINT("Hello")
+PRINT("World")
+
+PRINT("Hello"); PRINT("World")
+

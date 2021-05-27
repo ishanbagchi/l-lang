@@ -6,3 +6,11 @@ VAR age = 27
 VAR price = IF age >= 18 THEN 40 ELSE 20
 
 IF 5 == 5 THEN "Of Course!" ELSE "Maths is broken!"
+
+IF <expr> THEN <expr>
+
+IF <expr> THEN
+    <expr1>
+    <expr2>
+    <expr3>
+END
