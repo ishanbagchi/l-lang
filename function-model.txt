@@ -5,3 +5,23 @@ FUN <name>()
     <expr2>
     <expr3>
 END
+
+FUN add(a, b)
+    RETURN a + b
+END
+
+FUN example()
+    # do stuff
+    IF ... THEN
+        RETURN
+    END
+    # do more stuff
+END
+
+FUN myFuncA() -> myValue
+
+FUN myFuncB()
+    # statement 1
+    # statement 2
+    RETURN myValue
+END

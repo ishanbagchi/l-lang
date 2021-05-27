@@ -22,3 +22,13 @@ WHILE <condition> THEN
     <expr2>
     <expr3>
 END
+
+FOR i = 0 TO 10
+    IF <condition> THEN
+        BREAK
+    END
+    IF <condition> THEN
+        CONTINUE
+    END
+    # do stuff
+END

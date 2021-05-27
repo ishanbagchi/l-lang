@@ -14,3 +14,9 @@ IF <expr> THEN
     <expr2>
     <expr3>
 END
+
+IF <condition> THEN RETURN
+
+IF <condition> THEN
+    RETURN
+END
