@@ -13,3 +13,5 @@ v1:
     POP
     EXTEND
     EXIT : Only for shell
+    LEN
+    RUN
